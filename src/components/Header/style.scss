@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  align-items: center;
+
+  img {
+    width: 50px;
+    border-radius: 50%;
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+
+    li {
+      margin-right: 50px;
+
+      a {
+        text-decoration: none;
+        color: #264653;
+        font-weight: bold;
+
+        &:hover {
+          color: #2a9d8f;
+        }
+      }
+    }
+  }
+}

@@ -1,9 +1,11 @@
 import { Link } from "react-router-dom";
+import logo from '../../logo.png';
 import './style.scss';
 
 function Header() {
   return (
-    <header className="App-header">
+    <header className="header">
+      <img src={logo} alt="logo dog academy" />
       <ul>
         <li>
           <Link to="/">Home</Link>
