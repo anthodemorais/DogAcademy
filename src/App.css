@@ -4,6 +4,10 @@ body {
   padding: 40px 4rem;
 }
 
+div {
+  background-color: #fafafa;
+}
+
 .mono-font {
-  font-family: Menlo,Courier,monospace;
+  font-family: 'Merriweather',Georgia,Serif;
 }

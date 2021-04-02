@@ -1,0 +1,61 @@
+.post-card {
+  width: 30%;
+  border-radius: 10px;
+  min-height: 360px;
+  overflow: hidden;
+  box-shadow: 0 30px 60px -10px rgb(0 0 0 / 22%), 0 18px 36px -18px rgb(0 0 0 / 25%);
+  cursor: pointer;
+
+  &:hover {
+    transition: 0.2s;
+    transform: translateY(-2px);
+    box-shadow: 0 50px 80px -20px rgb(0 0 0 / 27%), 0 30px 50px -30px rgb(0 0 0 / 30%);
+
+    strong {
+      color: #2a9d8f;
+    }
+  }
+
+
+  .img-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+
+    img {
+      width: 100%;
+      position: absolute;
+      bottom: -30%;
+    }
+  }
+
+  .info-container {
+    padding: 20px;
+
+    strong {
+      font-size: 20px;
+      cursor: pointer;
+    }
+
+    p {
+      font-size: 14px;
+      color: #73737D;
+      font-weight: 300;
+      height: 50px;
+      text-overflow: ellipsis;
+      overflow-wrap: normal;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      display: -webkit-box;
+      white-space: normal;
+      overflow: hidden;
+    }
+
+    span {
+      font-weight: bold;
+      color: #73737D;
+      opacity: 0.33;
+    }
+  }
+}
