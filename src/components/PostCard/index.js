@@ -1,9 +1,11 @@
+import { useTranslation } from 'react-i18next';
 import { useHistory } from 'react-router';
 import './style.scss';
 
 function PostCard({ post }) {
 
   const history = useHistory()
+  const { t } = useTranslation()
 
   const handleClick = () => {
     history.push(`/post/${post.slug}`)
@@ -17,7 +19,7 @@ function PostCard({ post }) {
       <div className="info-container">
         <strong className="mono-font">{post.name}</strong>
         <p className="gray-text light">{post.exerpt}</p>
-        <span className="light-gray-text bold">{post.minRead} min read</span>
+        <span className="light-gray-text bold">{post.minRead} {t('minRead')}</span>
       </div>
     </div>
   )

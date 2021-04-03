@@ -1,20 +1,24 @@
+import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import logo from '../../logo.png';
 import './style.scss';
 
 function Header() {
+
+  const { t } = useTranslation()
+
   return (
     <header className="header">
       <img src={logo} alt="logo dog academy" />
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/">{t('home')}</Link>
         </li>
         <li>
-          <Link to="/about">About</Link>
+          <Link to="/about">{t('about')}</Link>
         </li>
         <li>
-          <Link to="/books">Books</Link>
+          <Link to="/books">{t('books')}</Link>
         </li>
       </ul>
     </header>

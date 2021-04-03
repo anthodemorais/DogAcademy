@@ -2,7 +2,8 @@
   position: fixed;
   top: 40px;
   right: 4rem;
-  width: 200px;
+  width: fit-content;
+  padding: 0 8px;
   height: 60px;
   color: #fff;
   display: flex;
@@ -23,6 +24,10 @@
     transition: 0.2s;
     transform: translateY(-1px);
     box-shadow: rgb(0 0 0 / 40%) 0px 8px 22px -2px;
+  }
+
+  img {
+    margin-right: 4px;
   }
 }
 
