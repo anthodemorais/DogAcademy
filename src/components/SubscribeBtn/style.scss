@@ -1,0 +1,27 @@
+.subscribe-btn {
+  position: fixed;
+  top: 40px;
+  right: 4rem;
+  width: 200px;
+  height: 60px;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #264653;
+  border: 0;
+  font-weight: bold;
+  font-size: 15px;
+  box-shadow: rgb(0 0 0 / 40%) 0px 8px 16px -2px;
+  border-radius: 999px;
+  cursor: pointer;
+  z-index: 100;
+  outline: none;
+
+  &:hover {
+    transition: opacity 0.3s ease;
+    transition: 0.2s;
+    transform: translateY(-1px);
+    box-shadow: rgb(0 0 0 / 40%) 0px 8px 22px -2px;
+  }
+}

@@ -1,0 +1,45 @@
+.post-container {
+  padding: 2em 10em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h2 {
+    font-size: 2.2rem;
+    margin-bottom: 0;
+  }
+
+  strong {
+    margin-bottom: 12px;
+  }
+
+  h3, h4 {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Merriweather',Georgia,Serif;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+  }
+  
+  p {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 40px;
+
+    &.normal-font {
+      width: 100%;
+      line-height: normal;
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    }
+  }
+}

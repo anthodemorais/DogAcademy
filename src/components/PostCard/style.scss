@@ -40,8 +40,6 @@
 
     p {
       font-size: 14px;
-      color: #73737D;
-      font-weight: 300;
       height: 50px;
       text-overflow: ellipsis;
       overflow-wrap: normal;
@@ -50,12 +48,6 @@
       display: -webkit-box;
       white-space: normal;
       overflow: hidden;
-    }
-
-    span {
-      font-weight: bold;
-      color: #73737D;
-      opacity: 0.33;
     }
   }
 }

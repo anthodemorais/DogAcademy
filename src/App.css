@@ -2,12 +2,34 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
   background-color: #fafafa;
   padding: 40px 4rem;
+  position: relative;
 }
 
 div {
   background-color: #fafafa;
 }
 
+.normal-font {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+
 .mono-font {
   font-family: 'Merriweather',Georgia,Serif;
+}
+
+.gray-text {
+  color: #73737D;
+}
+
+.light-gray-text {
+  color: #73737D;
+  opacity: 0.33;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.light {
+  font-weight: 300;
 }
