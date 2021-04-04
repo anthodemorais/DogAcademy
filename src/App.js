@@ -28,6 +28,8 @@ i18n
         "firstName": "First Name",
         "subscribeSubmit": "Subscribe",
         "minRead": "min read",
+        "aboutTitle": "All the secrets and scientific methods about dog training",
+        "aboutDesc": "Dog training is our passion. We tried many different methods before finding the right ones. The ones that are backed by scientific researches and renowned experts in this field. Here, we compile everything we know so you don't have waste your time doing the research and making the mistakes we made. We have a ton of free content but the best value and all our knowledge is in our books. If you don't want to spend time, our books are for you. Follow us and your dog will thank you and love you!"
       }
     },
     fr: {
@@ -44,6 +46,8 @@ i18n
         "firstName": "Prénom",
         "subscribeSubmit": "Envoyer",
         "minRead": "min de lecture",
+        "aboutTitle": "Tous les secrets et les méthodes scientifiques pour dresser son chien",
+        "aboutDesc": "Le dressage des chiens est notre passion. Nous avons essayé de nombreuses méthodes différentes avant de trouver les bonnes. Celles qui sont soutenues par des recherches scientifiques et des experts reconnus dans ce domaine. Ici, nous compilons tout ce que nous savons pour que vous n'ayez pas à perdre votre temps à faire des recherches et à commettre les erreurs que nous avons faites. Nous avons une tonne de contenu gratuit mais la meilleure valeur et toutes nos connaissances se trouvent dans nos livres. Si vous ne voulez pas perdre de temps, nos livres sont faits pour vous. Suivez-nous et votre chien vous remerciera et vous aimera !"
       }
     }
   },

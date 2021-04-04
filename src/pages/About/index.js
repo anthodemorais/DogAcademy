@@ -7,14 +7,15 @@ function About() {
   const { t } = useTranslation()
 
   return (
-    <div>
+    <div className="about">
       <Helmet>
         <title>{t('metaTitle')}</title>
         <meta name='description' content={t('metaDesc')} />
         <meta name='robots' content='index,follow' />
         <meta name='keywords' content={t('metaKeywords')} />
       </Helmet>
-      About
+      <h2>{t('aboutTitle')}</h2>
+      <p>{t('aboutDesc')}</p>
     </div>
   )
 }
