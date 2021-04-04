@@ -2,10 +2,9 @@ import { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import ReactMarkdown from 'react-markdown';
 import { useHistory, useParams } from 'react-router';
-import posts from '../../posts';
 import './style.scss';
 
-function Post() {
+function Post({ posts }) {
 
   const [post, setPost] = useState({})
 
@@ -21,7 +20,7 @@ function Post() {
       }
     }
     history.push('/home')
-  }, [slug, history])
+  }, [slug, history, posts])
 
   return (
     <div className="post-container">

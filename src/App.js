@@ -6,6 +6,8 @@ import About from './pages/About'
 import Post from './pages/Post'
 import Header from "./components/Header";
 import SubscribeBtn from './components/SubscribeBtn'
+import postsFr from './posts/fr'
+import postsEn from './posts/en'
 import './App.css';
 
 i18n
@@ -39,7 +41,7 @@ i18n
       }
     }
   },
-  lng: window.location.host.split(".")[0],
+  lng: window.location.host.split(".")[0] === "fr" ? "fr" : "en",
   fallbackLng: "en",
 
   interpolation: {
@@ -49,7 +51,7 @@ i18n
 
 
 function App() {
-
+  const posts = i18n.language === "fr" ? postsFr : postsEn
   return (
     <Router>
       <div className="App">
@@ -60,10 +62,10 @@ function App() {
             <About />
           </Route>
           <Route path="/post/:slug">
-            <Post />
+            <Post posts={posts} />
           </Route>
           <Route path="/">
-            <Home />
+            <Home posts={posts} />
           </Route>
         </Switch>
       </div>

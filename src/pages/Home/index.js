@@ -1,9 +1,8 @@
 import PostCard from '../../components/PostCard';
 import './style.scss';
-import posts from '../../posts';
 import { useTranslation } from 'react-i18next';
 
-function Home() {
+function Home({ posts }) {
 
   const { t } = useTranslation()
 
