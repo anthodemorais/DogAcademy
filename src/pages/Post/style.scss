@@ -4,6 +4,14 @@
   flex-direction: column;
   justify-content: center;
 
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    padding: 0;
+  }
+
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    padding: 0;
+  }
+
   h2 {
     font-size: 2.2rem;
     margin-bottom: 0;
@@ -40,6 +48,18 @@
       width: 100%;
       line-height: normal;
       font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    }
+  }
+
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    p, h3, h4 {
+      width: 100%;
+    }
+  }
+
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    p, h3, h4 {
+      width: 100%;
     }
   }
 }

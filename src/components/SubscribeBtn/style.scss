@@ -19,6 +19,12 @@
   z-index: 100;
   outline: none;
 
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    top: unset;
+    bottom: 12px;
+    right: 12px;
+  }
+
   &:hover {
     transition: opacity 0.3s ease;
     transition: 0.2s;
@@ -80,6 +86,21 @@
         border: 0;
         cursor: pointer;
       }
+    }
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .modal {
+    width: 70%;
+    left: 5%;
+
+    label {
+      text-align: center;
+    }
+
+    .button {
+      width: 100% !important;
     }
   }
 }
