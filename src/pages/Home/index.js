@@ -1,6 +1,7 @@
 import PostCard from '../../components/PostCard';
-import './style.scss';
 import { useTranslation } from 'react-i18next';
+import { Helmet } from "react-helmet";
+import './style.scss';
 
 function Home({ posts }) {
 
@@ -8,6 +9,12 @@ function Home({ posts }) {
 
   return (
     <div className="home">
+      <Helmet>
+        <title>{t('metaTitle')}</title>
+        <meta name='description' content={t('metaDesc')} />
+        <meta name='robots' content='index,follow' />
+        <meta name='keywords' content={t('metaKeywords')} />
+      </Helmet>
       <h1>{t('homeDesc')}</h1>
       <div className="posts-container">
         {posts.map((post, index) => (

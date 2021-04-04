@@ -1,3 +1,5 @@
+import bathingADog from '../images/bathing-a-dog-how-and-why.jpg'
+
 const text = `Washing your dog is important, but not as important as some people think. Healthy dogs **actually don't need to be washed all that often**, but humans prefer to bathe them so that they have a more pleasing smell and appearance.
 
 ### Why bathing your dog is important ?
@@ -81,4 +83,23 @@ If the dog has any signs of illness, then you shouldn't wait for the regular che
 ### Conclusion
 Why is dog bathing important? If until now, the answer is still unclear to you, then know this; grooming is as important to your dog as it is important to you.`
 
-export default text
+
+const name = 'Bathing a dog - How to do it and why is it important ?'
+const slug = 'bathing-a-dog-how-and-why'
+const exerpt = 'Dog bathing is an important part of pet ownership. It goes more than just a beauty regimen. It stretches as a healthcare to prevent infections and illness'
+const image = bathingADog
+const minRead = 12
+const content = text
+const metaKeywords = 'bathing a dog,dog bath,dog grooming,dog health'
+
+const post = {
+  name,
+  slug,
+  exerpt,
+  image,
+  minRead,
+  content,
+  metaKeywords
+}
+
+export default post

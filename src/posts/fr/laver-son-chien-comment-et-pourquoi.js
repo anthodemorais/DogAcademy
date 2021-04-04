@@ -1,3 +1,5 @@
+import bathingADog from '../images/bathing-a-dog-how-and-why.jpg'
+
 const text = `Laver son chien c'est important, mais pas autant que certains le pensent. Les chiens en bonne santé **n'ont en fait pas besoin d'être lavés si souvent**, mais les humains préfèrent les laver pour qu'ils aient une odeur et une apparence plus agréables.
 
 ### Pourquoi il est important de laver son chien ?
@@ -82,4 +84,22 @@ Si le chien présente des signes de maladie, il ne faut pas attendre le contrôl
 Pourquoi laver son chien est-il important ? Si jusqu'à présent, la réponse n'est toujours pas claire pour vous, sachez que le toilettage est aussi important pour votre chien qu'il l'est pour vous.
 `
 
-export default text
+const name = 'Laver son chien - Comment faire et pourquoi c\'est important?'
+const slug = 'laver-son-chien-comment-et-pourquoi'
+const exerpt = "Laver son chien, c'est plus qu'une simple habitude de beauté. Il faut bien savoir le faire car c'est essentiel pour prévenir les infections et les maladies"
+const image = bathingADog
+const minRead = 12
+const content = text
+const metaKeywords = 'laver son chien,toilettage pour chien,santé des chiens'
+
+const post = {
+  name,
+  slug,
+  exerpt,
+  image,
+  minRead,
+  content,
+  metaKeywords
+}
+
+export default post

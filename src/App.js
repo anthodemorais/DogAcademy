@@ -16,6 +16,9 @@ i18n
   resources: {
     en: {
       translation: {
+        "metaTitle": "Dog Academy - All you need to know about dog training",
+        "metaDesc": "The best place for you to learn the science, the proven methods and tips for dog training, grooming, hygiene, health and nutrition. Your dog will love you !",
+        "metaKeywords": "dog,dog training,dog nutrition,dog health,hypoallergenic dog,dog barking,dog grooming",
         "home": "Home",
         "about": "About",
         "books": "Books",
@@ -29,6 +32,9 @@ i18n
     },
     fr: {
       translation: {
+        "metaTitle": "Dog Academy - Tous les secrets pour dresser son chien",
+        "metaDesc": "La meilleure façon d'apprendre les méthodes scientifiques pour dresser son chien. Tu sauras aussi tout sur l'hygiène, la santé et la nutrition des chiens",
+        "metaKeywords": "chien,dresser son chien,nourrir son chien,santé des chiens,chien hypoallergenique,faire taire son chien,toilettage chien",
         "home": "Acceuil",
         "about": "À propos",
         "books": "Livres",
