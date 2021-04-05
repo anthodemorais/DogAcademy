@@ -1,4 +1,6 @@
 header {
+  position: absolute;
+  top: 40px;
   display: flex;
   align-items: center;
 
@@ -25,6 +27,21 @@ header {
           color: #2a9d8f;
         }
       }
+    }
+  }
+
+  &.home-header {
+    ul li a {
+      color: #fafafa;
+    }
+  }
+
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    max-width: calc(100vw - 12px);
+    overflow: hidden;
+
+    ul {
+      margin-left: 0px;
     }
   }
 }

@@ -15,7 +15,9 @@ function Home({ posts }) {
         <meta name='robots' content='index,follow' />
         <meta name='keywords' content={t('metaKeywords')} />
       </Helmet>
-      <h1>{t('homeDesc')}</h1>
+      <div className="title-container">
+        <h1>{t('homeDesc')}</h1>
+      </div>
       <div className="posts-container">
         {posts.map((post, index) => (
           <PostCard key={index} post={post} />

@@ -62,19 +62,24 @@ i18n
 
 function App() {
   const posts = i18n.language === "fr" ? postsFr : postsEn
+
   return (
     <Router>
       <div className="App">
-        <Header />
-        <SubscribeBtn />
         <Switch>
           <Route path="/about">
+            <Header isHome={false} />
+            <SubscribeBtn />
             <About />
           </Route>
           <Route path="/post/:slug">
+            <Header isHome={false} />
+            <SubscribeBtn />
             <Post posts={posts} />
           </Route>
           <Route path="/">
+            <Header isHome={true} />
+            <SubscribeBtn />
             <Home posts={posts} />
           </Route>
         </Switch>

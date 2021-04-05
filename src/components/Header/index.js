@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 import logo from '../../logo.png';
 import './style.scss';
 
-function Header() {
+function Header({ isHome }) {
 
   const { t } = useTranslation()
 
   return (
-    <header className="header">
+    <header className={`header ${isHome ? 'home-header' : ''}`}>
       <img src={logo} alt="logo dog academy" />
       <ul>
         <li>
