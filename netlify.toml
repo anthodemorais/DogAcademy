@@ -1,0 +1,9 @@
+# A redirect rule with many of the supported properties
+[[redirects]]
+  from = "https://dog-academy.co/"
+  to = "https://fr.dog-academy.co/"
+  status = 301
+  force = true
+  conditions = {Language = ["fr"]}
+
+
