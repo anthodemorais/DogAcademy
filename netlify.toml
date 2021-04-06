@@ -4,6 +4,7 @@
   to = "https://fr.dog-academy.co/"
   status = 301
   force = true
+  query = {path = ":path"}
   conditions = {Language = ["fr"]}
 
 
