@@ -11,7 +11,8 @@
     transform: translateY(-2px);
     box-shadow: 0 50px 80px -20px rgb(0 0 0 / 27%), 0 30px 50px -30px rgb(0 0 0 / 30%);
 
-    strong {
+    .info-container strong a {
+      text-decoration: none;
       color: #2a9d8f;
     }
   }
@@ -32,9 +33,11 @@
   .info-container {
     padding: 20px;
 
-    strong {
+    strong a {
       font-size: 20px;
       cursor: pointer;
+      color: #264653;
+      text-decoration: none;
     }
 
     p {
