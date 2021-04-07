@@ -6,7 +6,7 @@ Have you been putting it off because you think your dog will never be able to le
 
 *'Why does your dog sit when you tell him to and mine doesn't?", 'How can your dog heel to you like that?' 'Wow! He comes when you tell him to'*
 
-- Sound familiar?  If it does, you need to invest some time into a little bit of basic dog training. Starting to train your dog from a young age is crucial, as the first few months of his life is when you will have the greatest influence on him; this is where he is shaped into the dog he is going to be when he is all grown up.
+Sound familiar?  If it does, you need to invest some time into a little bit of basic dog training. Starting to train your dog from a young age is crucial, as the first few months of his life is when you will have the greatest influence on him; this is where he is shaped into the dog he is going to be when he is all grown up.
 
 The most basic of dog training is to get your dog to sit and come. Teaching your dog those commands are essential for him to learn. These commands are used for various different reasons, if you are in competition, if your dog jumps making him sit will immediately get him off, and "come" is the all important one. If you take your dog for a walk, you let him of the leash and you expect him to come back to you, not run around the park with you chasing after him shouting at him to 'get here right this instance'. That would be just down right embarrassing!
 

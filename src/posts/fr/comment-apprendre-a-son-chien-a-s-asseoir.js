@@ -6,7 +6,7 @@ As-tu remis à plus tard l'apprentissage de ce nouveau "tour" à ton chien ? **N
 
 *Pourquoi ton chien s'assoit quand tu lui dis de le faire et pas le mien ?", "Comment ton chien peut-il te suivre comme ça ?", "Wow ! Il vient quand tu lui dit de le faire "*.
 
-- Cela te semble familier ?  Si c'est le cas, tu dois consacrer un peu de temps à l'éducation de base de ton chien. Il est essentiel de commencer à éduquer ton chien dès son plus jeune âge, car c'est au cours des premiers mois de sa vie que tu auras la plus grande influence sur lui ; c'est à ce moment-là qu'il devient le chien qu'il sera une fois adulte.
+Cela te semble familier ?  Si c'est le cas, tu dois consacrer un peu de temps à l'éducation de base de ton chien. Il est essentiel de commencer à éduquer ton chien dès son plus jeune âge, car c'est au cours des premiers mois de sa vie que tu auras la plus grande influence sur lui ; c'est à ce moment-là qu'il devient le chien qu'il sera une fois adulte.
 
 L'éducation canine la plus élémentaire consiste à apprendre à ton chien à s'asseoir et à venir. Il est essentiel d'enseigner ces ordres à ton chien pour qu'il les apprenne. Ces ordres sont utilisés pour différentes raisons, si tu es en compétition, si ton chien saute, le faire s'asseoir le fera immédiatement descendre, et "viens" est le plus important. Si tu emmènes ton chien en promenade, si tu lui lâches la laisse, tu attends de lui qu'il revienne vers toi, et non pas qu'il court dans le parc en te poursuivant et en lui criant "viens ici tout de suite". Ce serait tout simplement embarrassant !
 
