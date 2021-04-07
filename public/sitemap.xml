@@ -16,4 +16,10 @@
             <changefreq>daily</changefreq>
             <priority>0.7</priority>
           </url>
+        
+          <url>
+            <loc>https://dog-academy.co/how-to-teach-a-dog-to-sit</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
         </urlset>
