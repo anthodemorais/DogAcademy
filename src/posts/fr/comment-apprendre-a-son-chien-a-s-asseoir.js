@@ -31,7 +31,7 @@ Il existe un "processus" général d'enseignement, quel que soit ce que tu veux 
 
 Voici les 15 méthodes que tu dois utiliser pour apprendre à ton chien l'instruction la plus fondamentale : "Assis" :
 
-1. *La première chose à faire est d'amener ton chiot ou ton chien à associer l'action de s'asseoir à l'instruction. Pour ce faire, passez simplement du temps avec ton chien et lorsqu'il s'assied, donnez-lui l'instruction "assis".
+1. *La première chose à faire est d'amener ton chiot ou ton chien à associer l'action de s'asseoir à l'instruction.* Pour ce faire, passez simplement du temps avec ton chien et lorsqu'il s'assied, donnez-lui l'instruction "assis".
 
 2. *En te mettant à la hauteur de ton chien*, tu pourras lui donner sa récompense (friandises) plus rapidement, alors prenez une poignée de friandises de la taille d'une bouchée et mettez-vous par terre.
 
@@ -39,17 +39,17 @@ Voici les 15 méthodes que tu dois utiliser pour apprendre à ton chien l'instru
 
 4. La solution à l'enseignement est de *donner la récompense à l'instant précis où le chien s'assied*, mais tu dois également donner l'instruction à cet instant afin qu'il associe l'instruction à l'acte. Ainsi, lorsque votre chien s'assoit, tu dois lui dire "assis", puis lui donner immédiatement la récompense.
 
-5. *Félicite ton chien, manifeste ta joie dans ta voix; cela le fera agir en réponse.
+5. *Félicite ton chien*, manifeste ta joie dans ta voix; cela le fera agir en réponse.
 
 6. *Recommence trois à cinq fois* à chaque séance, mais pas plus. Le dressage doit être un plaisir et non une corvée inintéressante, alors n'en fait pas trop en une seule séance. Tu peux faire plusieurs séances tout au long de la journée.
 
-7. *Appelle ton chien et offre-lui la friandise. Laisse-le d'abord renifler la friandise et s'exciter ! 
+7. *Appelle ton chien et offre-lui la friandise.* Laisse-le d'abord renifler la friandise et s'exciter ! 
 
-8. *Déplace lentement la friandise jusqu'à ce qu'elle soit au-dessus de la tête du chien. Le chien se mettra naturellement en position assise. 
+8. *Déplace lentement la friandise jusqu'à ce qu'elle soit au-dessus de la tête du chien.* Le chien se mettra naturellement en position assise. 
 
 10. *Continue à récompenser le chien et diminue progressivement la taille de la friandise*. Continue à féliciter le chien avec enthousiasme. 
 
-11. *Répète cet exercice plusieurs fois par jour. N'en fait pas trop - tu veux que ton chien considère cet exercice comme amusant. 
+11. *Répète cet exercice plusieurs fois par jour.* N'en fait pas trop - tu veux que ton chien considère cet exercice comme amusant. 
 
 12. *Essaye de l'entraîner à l'heure des repas, lorsque ton chien a faim* ; il sera ainsi plus enclin à recevoir des friandises. 
 
@@ -57,7 +57,7 @@ Voici les 15 méthodes que tu dois utiliser pour apprendre à ton chien l'instru
 
 14. *Ne pousse pas les fesses de ton chien vers le bas* ; cela ne fonctionnera pas car ton chien associera l'action de s'asseoir à celle de pousser ses fesses vers le sol. Si cela ne fonctionne vraiment pas, tu peux envisager des cours d'obéissance avec d'autres chiens. 
 
-15. *Termine chaque séance d'entraînement sur une note positive.
+15. *Termine chaque séance d'entraînement sur une note positive.*
 
 Lorsque tu prends le temps de dresser ton chien, tu as bien plus qu'un chien qui fait un certain nombre de pitreries. Il a envie de faire des choses avec toi. Il saisit l'occasion de prêter attention lorsque tu dis son nom. Il s'habitue à être avec toi et à faire des choses sur ton ordre. Grâce à un bon entraînement, ta position en tant que personne responsable est renforcée. Tu dois t'arranger pour consacrer quelques minutes par jour à travailler ces trucs. Ce type de renforcement récurrent l'aidera à garder à l'esprit et à créer un lien entre toi et lui.
 
