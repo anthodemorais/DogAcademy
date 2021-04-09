@@ -1,11 +1,11 @@
 .post-card {
-  width: 30%;
+  width: calc(100% / 3 - 20px);
   border-radius: 10px;
   min-height: 360px;
   overflow: hidden;
   box-shadow: 0 30px 60px -10px rgb(0 0 0 / 22%), 0 18px 36px -18px rgb(0 0 0 / 25%);
   cursor: pointer;
-  margin: 25px;
+  margin: 10px;
 
   &:hover {
     transition: 0.2s;
