@@ -23,7 +23,7 @@ function generateSitemap(filename, lang) {
       for (let i = 0; i < files.length; i++) {
         let file = files[i];
         if (file !== 'index.js') {
-          posts.push(`${baseUrl}${file.replace('.js', '')}`)
+          posts.push(`${baseUrl}post/${file.replace('.js', '')}`)
         }
       }
   
