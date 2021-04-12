@@ -82,6 +82,7 @@ const image = dogSitting
 const minRead = 11
 const content = text
 const metaKeywords = 'dresser son chien,dresser son chiot,chien,chiot,l\'ordre assis,renforcement positif'
+const tags = ['dresser-son-chien']
 
 const post = {
   name,
@@ -90,7 +91,8 @@ const post = {
   image,
   minRead,
   content,
-  metaKeywords
+  metaKeywords,
+  tags
 }
 
 export default post

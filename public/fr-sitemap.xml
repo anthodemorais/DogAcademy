@@ -28,4 +28,34 @@
             <changefreq>daily</changefreq>
             <priority>0.7</priority>
           </url>
+        
+          <url>
+            <loc>https://fr.dog-academy.co/tag/all</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
+            <loc>https://fr.dog-academy.co/tag/dresser-son-chien</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
+            <loc>https://fr.dog-academy.co/tag/sante-chien</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
+            <loc>https://fr.dog-academy.co/tag/nutrition-canine</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
+            <loc>https://fr.dog-academy.co/tag/proprete-et-toilettage-des-chiens</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
         </urlset>

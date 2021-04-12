@@ -79,6 +79,7 @@ const exerpt = "One of the most confusing, painful and important areas of dog tr
 const minRead = 13
 const content = text
 const metaKeywords = 'house train a dog,dog training,dog house training,train a dog,dog,house train a puppy,dog potty'
+const tags = ['dog-grooming', 'dog-training']
 
 const post = {
   name,
@@ -87,7 +88,8 @@ const post = {
   image,
   minRead,
   content,
-  metaKeywords
+  metaKeywords,
+  tags
 }
 
 export default post

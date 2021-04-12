@@ -82,6 +82,7 @@ const image = dogSitting
 const minRead = 11
 const content = text
 const metaKeywords = 'training a dog,dog training,puppy training,puppy,dog,sit,sit command,dog obediance,positive reinforcement'
+const tags = ['dog-training']
 
 const post = {
   name,
@@ -90,7 +91,8 @@ const post = {
   image,
   minRead,
   content,
-  metaKeywords
+  metaKeywords,
+  tags
 }
 
 export default post

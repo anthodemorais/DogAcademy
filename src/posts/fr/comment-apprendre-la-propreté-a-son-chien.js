@@ -78,6 +78,7 @@ const exerpt = "Apprendre de la propreté à son chien est l'un des aspects les 
 const minRead = 13
 const content = text
 const metaKeywords = 'propreté chien,dresser son chien,apprendre propreté chien,dressage chien,chien,propreté chiot'
+const tags = ['proprete-et-toilettage-des-chiens', 'dresser-son-chien']
 
 const post = {
   name,
@@ -86,7 +87,8 @@ const post = {
   image,
   minRead,
   content,
-  metaKeywords
+  metaKeywords,
+  tags
 }
 
 export default post

@@ -2,8 +2,9 @@ import PostCard from '../../components/PostCard';
 import { useTranslation } from 'react-i18next';
 import { Helmet } from "react-helmet";
 import './style.scss';
+import { NavLink } from 'react-router-dom';
 
-function Home({ posts }) {
+function Home({ posts, tags }) {
 
   const { t } = useTranslation()
 
@@ -17,6 +18,11 @@ function Home({ posts }) {
       </Helmet>
       <div className="title-container">
         <h1>{t('homeDesc')}</h1>
+      </div>
+      <div className="tags-container">
+        {tags.map((tag, index) => (
+          <NavLink index={index} to={`/tag/${tag.slug}`}>{tag.name}</NavLink>
+        ))}
       </div>
       <div className="posts-container">
         {posts.map((post, index) => (

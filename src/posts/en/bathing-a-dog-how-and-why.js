@@ -91,6 +91,7 @@ const image = bathingADog
 const minRead = 12
 const content = text
 const metaKeywords = 'bathing a dog,dog bath,dog grooming,dog health'
+const tags = ['dog-grooming']
 
 const post = {
   name,
@@ -99,7 +100,8 @@ const post = {
   image,
   minRead,
   content,
-  metaKeywords
+  metaKeywords,
+  tags
 }
 
 export default post

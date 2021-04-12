@@ -91,6 +91,7 @@ const image = bathingADog
 const minRead = 12
 const content = text
 const metaKeywords = 'laver son chien,toilettage pour chien,santé des chiens'
+const tags = ['proprete-et-toilettage-des-chiens']
 
 const post = {
   name,
@@ -99,7 +100,8 @@ const post = {
   image,
   minRead,
   content,
-  metaKeywords
+  metaKeywords,
+  tags
 }
 
 export default post
