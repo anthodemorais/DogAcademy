@@ -67,8 +67,11 @@ Des services dentaires sont disponibles pour les chiens, tout comme pour les hum
 Comme nous l'avons expliqué dans cet article, les maladies dentaires sont l'un des problèmes de santé **les plus fréquemment diagnostiqués chez les chiens**. Tu devrais au minimum essayer de lui donner régulièrement quelque chose à mâcher surtout quand il est jeune pour prévenir les maladies dentaires. C'est ce que les **vétérinaires recommandent** vivement et tu devrais l'envisager, surtout si tu ne veux pas ou ne peut pas brosser les dents de ton chien tous les jours (ce que je comprends parfaitement). Ça vaut la peine de consacrer du temps à la santé de ton chien car c'est un excellent moyen de l'avoir à tes côtés pendant de nombreuses années.
 
 Voici ce que tu dois garder à l'esprit :
+
 - Les maladies dentaires sont les problèmes de santé **les plus fréquents**, il est donc important de prendre soin des dents de ton chien.
+
 - Le brossage des dents de ton chien est recommandé par les vétérinaires, mais si tu n'as pas le temps de le faire ou si tu ne veux pas le faire, **donne-lui au moins de la nourriture ou des jouets à mâcher**.
+
 - Ton chien ne peut pas parler, donc pour savoir s'il a des problèmes de santé, tu dois **l'observer** pour voir s'il a des symptômes. Si c'est le cas, fais des recherches et vois si tu peux faire quelque chose. Si tu ne peux rien faire ou si ton chien se sent vraiment mal, **emmène-le chez le vétérinaire dès que possible.**`
 
 

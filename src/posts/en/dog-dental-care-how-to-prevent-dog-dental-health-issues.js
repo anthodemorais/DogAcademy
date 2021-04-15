@@ -67,8 +67,11 @@ Dental services are available for dogs, just like they are for people. A dog's t
 As explained throughout this article, dental diseases are the one of most frequently diagnosed health problems for dogs. If you're not caring about your dog's dental health, you should at least be regularly giving your dog something to chew to prevent dental diseases. That's what veterinarians strongly recommend and you should consider it especially if you don't want to brush your dog's teeth everyday (which I totally understand). It is worth it to spend time on your dog's health as it's a great way to have your dog around for many years.
 
 Here's what you should keep in mind :
+
 - Dental diseases are the **most frequent health issues** so it's a good idea to care about your dog's teeth
+
 - Brushing your dog's teeth is recommended by veterinarians but if you don't have time to do it or you don't want to, at least **give him food or toys to chew**
+
 - Your dog can't talk so to see if he has health issues, you have to **observe him** to see if he has any symptoms. If so, see if you can do something. If you can't do anything or if your dog is really feeling bad, take him to the veterinarian as soon as you can.
 `
 
