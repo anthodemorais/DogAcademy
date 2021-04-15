@@ -18,6 +18,12 @@
           </url>
         
           <url>
+            <loc>https://dog-academy.co/post/dog-dental-care-how-to-prevent-dog-dental-health-issues</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
             <loc>https://dog-academy.co/post/how-to-house-train-a-dog</loc>
             <changefreq>daily</changefreq>
             <priority>0.7</priority>

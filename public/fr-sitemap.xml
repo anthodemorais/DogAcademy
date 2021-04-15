@@ -30,6 +30,12 @@
           </url>
         
           <url>
+            <loc>https://fr.dog-academy.co/post/prendre-soin-des-dents-des-chiens</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
             <loc>https://fr.dog-academy.co/tag/all</loc>
             <changefreq>daily</changefreq>
             <priority>0.7</priority>
