@@ -24,6 +24,12 @@
           </url>
         
           <url>
+            <loc>https://fr.dog-academy.co/post/comment-choisir-la-nourriture-pour-chien</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+          </url>
+        
+          <url>
             <loc>https://fr.dog-academy.co/post/laver-son-chien-comment-et-pourquoi</loc>
             <changefreq>daily</changefreq>
             <priority>0.7</priority>

@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import gift from './gift.png'
+import preview from './preview.jpg'
 import './style.scss'
 
 function SubscribeBtn() {
@@ -19,6 +20,7 @@ function SubscribeBtn() {
         <>
           <div className="modal-background" onClick={() => setModalOpen(false)}></div>
           <div className="modal" id="mc_embed_signup">
+            <img src={preview} alt={t('subscribeAlt')} />
             <form action="https://dog-academy.us1.list-manage.com/subscribe/post?u=dfee74bf98b227072536cafa3&amp;id=44bc220770" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <label for="mce-EMAIL">{t('subscribeText')}</label>
               <input type="email" name="EMAIL" className="email" id="mce-EMAIL" placeholder="E-mail" required />
