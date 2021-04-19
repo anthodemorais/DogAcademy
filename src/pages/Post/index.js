@@ -5,6 +5,7 @@ import { useHistory, useParams } from 'react-router';
 import { Helmet } from "react-helmet";
 import './style.scss';
 import { NavLink } from 'react-router-dom';
+import SubscribeForm from '../../components/SubscribeForm';
 
 function Post({ posts, tags }) {
 
@@ -43,6 +44,7 @@ function Post({ posts, tags }) {
       </div>
       <img src={post.image} alt={post.name} />
       <ReactMarkdown source={post.content}/>
+      <SubscribeForm />
     </div>
   )
 }

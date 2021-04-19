@@ -1,0 +1,50 @@
+.subscribe-form {
+  background-color: #264653;
+  border-radius: 8px;
+  display: flex;
+  overflow: hidden;
+  height: 200px;
+  box-shadow: 0 20px 30px -10px rgb(0 0 0 / 22%), 0 18px 36px -18px rgb(0 0 0 / 25%);
+
+  form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  
+    label {
+      text-align: center;
+      font-weight: bold;
+      font-size: 18px;
+      color: #fff;
+    }
+  
+    input {
+      width: 90%;
+      height: 30px;
+      padding-left: 8px;
+      border: 1px solid #cfcfcf;
+      border-radius: 4px;
+      font-weight: 600;
+  
+      &.button {
+        background-color: #2a9d8f;
+        color: #fff;
+        width: 200px;
+        height: 40px;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+      }
+    }
+  }
+
+  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    padding: 10px 0;
+
+    img {
+      display: none;
+    }
+  }
+}
